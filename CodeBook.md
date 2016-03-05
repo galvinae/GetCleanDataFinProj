@@ -8,9 +8,9 @@
  >activityrecognition@smartlab.ws
  >www.smartlab.ws
   
-  The data was downloaded via: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+ The data was downloaded via: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
   
-  The data was collected using an accelerometer and gyroscope, capturing 3-axial linear acceleration and angular velocity, respectively.
+ The data was collected using an accelerometer and gyroscope, capturing 3-axial linear acceleration and angular velocity,    respectively.
     - Raw signal recorded from the Accelerometer are labeled tAcc-XYZ.
       - The acceleration signal was separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ, respectively).
     - Raw signals recorded from the gyroscope are labeled tGyro-XYZ.
