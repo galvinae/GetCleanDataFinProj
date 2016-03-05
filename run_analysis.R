@@ -109,3 +109,6 @@ View(act_means)
 ##For each combination of subject/activity, find the mean of each column variable:
 combo_means<-dfms %>% group_by(Subject, Activity) %>% summarize_each(funs(mean))
 View(combo_means)
+
+##Create a .txt file for submission of the final tidy data set:
+write.table(combo_means, "run_analysis.txt", row.name=FALSE)
