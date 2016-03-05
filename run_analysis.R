@@ -74,7 +74,7 @@ dfms<-cbind(labelsall, dfsub2)
 ##STEP 3: USE DESCRIPTIVE ACTIVITY NAMES TO NAME ACTIVITIES IN THE DATASET
 
 dfms$Activity<-factor(dfms$Activity, levels = c(1,2,3,4,5,6), labels=c("Walking", "Walking Upstairs", "Walking Downstairs", "Sitting", "Standing", "Laying"))
-
+View(dfms)
 
 
 
