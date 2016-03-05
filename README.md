@@ -12,11 +12,11 @@ Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
 
-The data was obtained via:
+The data was obtained via: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ##### Project Description: #####
 
-The experiments for this dataset were performed by 30 volunteer subjects (19-48 years of age), each of whom wore a smartphone on their waists while performation a various activities, including walking, walking upstairs, walking downstairs, sitting, standing, or laying. Embedded in the smartphone was an accelerometer and a gyroscope to obtain 3-axial measurements of linear acceleration and angular velocity. 70% of the volunteers were randomly selected to generate the training data, while the other 30% were used to generate the test data. 
+The experiments for this dataset were performed by 30 volunteer subjects (19-48 years of age), each of whom wore a smartphone on their waists while performing various activities, including walking, walking upstairs, walking downstairs, sitting, standing, or laying. Embedded in the smartphone was an accelerometer and a gyroscope to obtain 3-axial measurements of linear acceleration and angular velocity. 70% of the volunteers were randomly selected to generate the training data, while the other 30% were used to generate the test data. 
 
 This repository is a collection of files for my final project in the Getting and Cleaning Data Course of the Coursera Data Science Specialization. Included in this collection are:
   1. This README file, containing basic information about the project and the data source
