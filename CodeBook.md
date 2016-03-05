@@ -1,12 +1,12 @@
 #CODEBOOK FOR run_analysis.R 
 
  The data for this project was provided courtesty of UCI:
-  Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
-  Smartlab - Non Linear Complex Systems Laboratory
-  DITEN - Università degli Studi di Genova.
-  Via Opera Pia 11A, I-16145, Genoa, Italy.
-  activityrecognition@smartlab.ws
-  www.smartlab.ws
+ Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+ Smartlab - Non Linear Complex Systems Laboratory
+ DITEN - Università degli Studi di Genova.
+ Via Opera Pia 11A, I-16145, Genoa, Italy.
+ activityrecognition@smartlab.ws
+ www.smartlab.ws
   
   The data was downloaded via: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
   
