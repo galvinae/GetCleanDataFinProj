@@ -27,7 +27,7 @@ Body linear acceleration and angular velocity were derived in time to obtain Jer
   - tBodyAcJerk-XYZ
   - tBodyGyroJerk-XYZ
 
-- The magnitude of these 3-D signals were calculated using the Euclidean norm:
+The magnitude of these 3-D signals were calculated using the Euclidean norm:
  - tBodyAccMag
  - tGravityAccMag
  - tBodyAccJerkMag
@@ -42,7 +42,7 @@ Finally, a Fast Fourier Transform (FFT) was applied to some of the signals, resu
  - fBodyGryoMag
  - fbodyGyroJerkMag
    
-- The mean and standard deviation (std) of each signal were estimated and included in the final dataset for each of the following signals:
+The mean and standard deviation (std) of each signal were estimated and included in the final dataset for each of the following signals:
  - tBodyAcc-XYZ
  - tGravityAcc-XYZ
  - tBodyAccJerk-XYZ
