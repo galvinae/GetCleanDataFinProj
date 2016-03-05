@@ -12,17 +12,16 @@ The data was downloaded via: https://d396qusza40orc.cloudfront.net/getdata%2Fpro
   
 The data was collected using an accelerometer and gyroscope, capturing 3-axial linear acceleration and angular velocity,    respectively.
  
-Raw signal recorded from the Accelerometer are labeled:
-  - tAcc-XYZ.
+Raw signal recorded from the Accelerometer are labeled tAcc-XYZ.
   - The acceleration signal was separated into body and gravity acceleration signals:
-      - tBodyAcc-XYZ
-      - tGravityAcc-XYZ
-    - Raw signals recorded from the gyroscope are labeled:
-      - tGyro-XYZ.
-    - The beginning of each variable is denoted by either a "t" or an "f"
-      - The "t" denotes time domain signals, captured at a constant rate of 50 Hz
-      - The "f" denotes frequency domain signals
-     
+    - tBodyAcc-XYZ
+    - tGravityAcc-XYZ
+  - Raw signals recorded from the gyroscope are labeled:
+    - tGyro-XYZ.
+  - The beginning of each variable is denoted by either a "t" or an "f"
+    - The "t" denotes time domain signals, captured at a constant rate of 50 Hz
+    - The "f" denotes frequency domain signals
+   
    - Body linear acceleration and angular velocity were derived in time to obtain Jerk signals (tBodyAcJerk-XYZ and tBodyGyroJerk-XYZ). 
    - The magnitude of these 3-D signals were calculated using the Euclidean norm:
      - tBodyAccMag
