@@ -16,6 +16,7 @@ Raw signal recorded from the Accelerometer are labeled tAcc-XYZ.
   - This acceleration signal was separated into body and gravity acceleration signals:
     - tBodyAcc-XYZ
     - tGravityAcc-XYZ
+
 Raw signals recorded from the gyroscope are labeled tGyro-XYZ.
   
 The beginning of each variable is denoted by either a "t" or an "f"
