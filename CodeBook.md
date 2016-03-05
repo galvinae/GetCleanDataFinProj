@@ -60,4 +60,9 @@ The mean and standard deviation (std) of each signal were estimated and included
  - fBodyAccJerkMag
  - fBodyGyroMag
  - fBodyGyroJerkMag
+ 
+The final variables use the following units:
+  - Acceleration signals (Acc) are in standard gravity units 'g'
+  - Angular Velocity signals (Gyro) are in radians/second
+ 
 
